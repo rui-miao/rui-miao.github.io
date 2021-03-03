@@ -3,7 +3,63 @@
   
   <url>
     <loc>https://rui-miao.github.io/categories/</loc>
-    <lastmod>2021-03-02T23:16:32-05:00</lastmod>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/post/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/tags/remote/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/tags/ssh/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/tags/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/categories/trick/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/post/vscodesshproxyjump/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rui-miao.github.io/tags/vscode/</loc>
+    <lastmod>2021-03-03T01:22:04-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -37,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://rui-miao.github.io/post/</loc>
-    <lastmod>2021-03-02T23:16:32-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rui-miao.github.io/</loc>
-    <lastmod>2021-03-02T23:16:32-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://rui-miao.github.io/tags/supervisedlearning/</loc>
     <lastmod>2021-03-02T23:16:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,13 +101,6 @@
   
   <url>
     <loc>https://rui-miao.github.io/tags/svm/</loc>
-    <lastmod>2021-03-02T23:16:32-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rui-miao.github.io/tags/</loc>
     <lastmod>2021-03-02T23:16:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
