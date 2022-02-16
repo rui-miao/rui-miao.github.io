@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://rui-miao.github.io/sitemap.xml
